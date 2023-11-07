@@ -1,0 +1,14 @@
+C:\WORKSPACE - C#\getset1\getset1\bin\Debug\net7.0\getset1.exe
+C:\WORKSPACE - C#\getset1\getset1\bin\Debug\net7.0\getset1.deps.json
+C:\WORKSPACE - C#\getset1\getset1\bin\Debug\net7.0\getset1.runtimeconfig.json
+C:\WORKSPACE - C#\getset1\getset1\bin\Debug\net7.0\getset1.dll
+C:\WORKSPACE - C#\getset1\getset1\bin\Debug\net7.0\getset1.pdb
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.AssemblyInfo.cs
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.dll
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\refint\getset1.dll
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.pdb
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\getset1.genruntimeconfig.cache
+C:\WORKSPACE - C#\getset1\getset1\obj\Debug\net7.0\ref\getset1.dll
